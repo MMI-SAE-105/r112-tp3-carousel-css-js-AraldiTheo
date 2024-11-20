@@ -55,3 +55,10 @@ Les margin négatifs à gauche et à droite corresponde à l'éespace entre le n
 .carousel__item img {
  display: block; /* Affiche l'image comme un bloc - https://developer.mozilla.org/fr/docs/Web/CSS/display */
 }
+
+.carousel__liste{
+display: flex;
+justify-content: space-between;
+list-style: none;
+scroll-behavior: smooth;
+}
