@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :Araldi
+- prénom :Théo
+- URL Netlify :https://app.netlify.com/sites/zesty-stroopwafel-602e29/deploys
 
 # Travail
 
