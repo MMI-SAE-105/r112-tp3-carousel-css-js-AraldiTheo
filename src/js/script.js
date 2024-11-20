@@ -8,9 +8,7 @@ if (carousel) {
    prevButon.addEventListener("click", ()=>{
     carousel.scrollBy({ left: -260, behavior: "smooth" })
    }) 
-};
 
-if (carousel) {
     nextButon.addEventListener("click", ()=>{
      carousel.scrollBy({ left: +260, behavior: "smooth" })
     }) 
